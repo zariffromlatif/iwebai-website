@@ -72,7 +72,6 @@ export default function Footer() {
               ))}
             </ul>
           </div>
-
           <div>
             <h4 className="font-semibold text-white text-sm mb-4">Community</h4>
             <ul className="space-y-3">
